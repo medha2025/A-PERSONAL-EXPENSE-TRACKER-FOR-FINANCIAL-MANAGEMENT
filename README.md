@@ -308,24 +308,4 @@ Project: Personal Expense Tracker for Financial Management
 Technology: Python | Streamlit | Machine Learning
 
 ---
-## 🔐 Login Page
 
-![Login Page](expense-tracker-login-page.jpeg)
-
----
-
-## 📊 Dashboard Overview
-
-![Dashboard](expense-tracker-overview.jpeg)
-
----
-
-## 🧾 Expense Distribution
-
-![Expense Distribution](expense-distribution.jpeg)
-
----
-
-## 📈 Income vs Expense Graph
-
-![Income vs Expense Graph](income-vs-expense-graph.jpeg)

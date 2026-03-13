@@ -1,0 +1,2 @@
+# A-PERSONAL-EXPENSE-TRACKER-FOR-FINANCIAL-MANAGEMENT
+A Personal Expense Tracker web application built using Streamlit and Python that helps users record income,expenses, visualize spending patterns, manage finances efficiently. It integrates machine learning models like SVR,Random Forest to forecast future expenses and provides interactive dashboards, charts, insights for smarter financial planning.

@@ -1,0 +1,10 @@
+Expense Tracking
+Streamlit
+Financial Forecasting
+Machine Learning
+Random Forest
+SVR
+Scikit-learn
+Pandas
+Plotly
+Personal Finance

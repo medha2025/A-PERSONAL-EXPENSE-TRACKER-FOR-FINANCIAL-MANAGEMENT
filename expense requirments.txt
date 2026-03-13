@@ -1,0 +1,12 @@
+Hardware Components:
+  Development Machine (Laptop/PC)
+  Internet Connection
+Software Components:
+ Streamlit(web app framework)
+ Scikit-learn (for SVR, Random Forest)
+ Pandas (for data handling)
+ Numpy
+ Matplotlib, plotly, seaborn (for visualization)
+Development Tools:
+  VS Code 
+  Live Server Extension
